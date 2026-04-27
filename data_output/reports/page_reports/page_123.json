@@ -1,0 +1,18 @@
+{
+  "page": 123,
+  "hits": [
+    {
+      "candidate": "列車",
+      "score": 0.831508,
+      "tag": "KNOWN",
+      "context": "第 編救援列車の取扱い 第 7 編救 援列 車 の 取扱 い"
+    },
+    {
+      "candidate": "救援",
+      "score": 0.450421,
+      "tag": "KNOWN",
+      "context": "第 編救援列車の取扱い 第 7 編救 援列 車 の 取扱 い"
+    }
+  ],
+  "count": 2
+}

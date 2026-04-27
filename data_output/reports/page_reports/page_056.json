@@ -1,0 +1,24 @@
+{
+  "page": 56,
+  "hits": [
+    {
+      "candidate": "踏切",
+      "score": 0.60327,
+      "tag": "KNOWN",
+      "context": "踏切事故発生のとき 削除 年十 差替二十四 A"
+    },
+    {
+      "candidate": "乗務員",
+      "score": 0.511113,
+      "tag": "KNOWN",
+      "context": "20 動力車乗務員作業標準在来線異常時編"
+    },
+    {
+      "candidate": "動力車",
+      "score": 0.40382,
+      "tag": "KNOWN",
+      "context": "20 動力車乗務員作業標準在来線異常時編"
+    }
+  ],
+  "count": 3
+}

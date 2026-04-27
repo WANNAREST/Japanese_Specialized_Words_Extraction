@@ -1,0 +1,18 @@
+{
+  "page": 226,
+  "hits": [
+    {
+      "candidate": "ATS-SW",
+      "score": 0.723023,
+      "tag": "NEW",
+      "context": "ATS-SW直下地上子安心ボタン 10-3 参考ページ 誤出発防止地上子表 裏誤出発防止地上子標 ATS-SW 直下地上子 ATS-SWの運転中の取扱い 年四差替七十一 A 99-2"
+    },
+    {
+      "candidate": "ATS",
+      "score": 0.470081,
+      "tag": "KNOWN",
+      "context": "ATS-SW直下地上子安心ボタン 10-3 参考ページ 誤出発防止地上子表 裏誤出発防止地上子標 ATS-SW 直下地上子 ATS-SWの運転中の取扱い 年四差替七十一 A 99-2"
+    }
+  ],
+  "count": 2
+}

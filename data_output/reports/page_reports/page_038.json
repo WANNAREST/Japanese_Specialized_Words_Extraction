@@ -1,0 +1,30 @@
+{
+  "page": 38,
+  "hits": [
+    {
+      "candidate": "鉄道",
+      "score": 0.884553,
+      "tag": "NEW",
+      "context": "鉄道用携帯電話機の使用方削除"
+    },
+    {
+      "candidate": "鉄道用携帯電話機",
+      "score": 0.734541,
+      "tag": "NEW",
+      "context": "鉄道用携帯電話機の使用方削除"
+    },
+    {
+      "candidate": "乗務員",
+      "score": 0.511113,
+      "tag": "KNOWN",
+      "context": "10 動力車乗務員作業標準在来線異常時編"
+    },
+    {
+      "candidate": "動力車",
+      "score": 0.40382,
+      "tag": "KNOWN",
+      "context": "10 動力車乗務員作業標準在来線異常時編"
+    }
+  ],
+  "count": 4
+}

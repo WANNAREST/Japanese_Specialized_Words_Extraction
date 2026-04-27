@@ -1,0 +1,30 @@
+{
+  "page": 112,
+  "hits": [
+    {
+      "candidate": "車両",
+      "score": 0.697039,
+      "tag": "KNOWN",
+      "context": "SIV搭載車両の電源誘導時の取扱い 削除"
+    },
+    {
+      "candidate": "乗務員",
+      "score": 0.511113,
+      "tag": "KNOWN",
+      "context": "47 動力車乗務員作業標準在来線異常時編"
+    },
+    {
+      "candidate": "動力車",
+      "score": 0.40382,
+      "tag": "KNOWN",
+      "context": "47 動力車乗務員作業標準在来線異常時編"
+    },
+    {
+      "candidate": "SIV",
+      "score": 0.234057,
+      "tag": "KNOWN",
+      "context": "SIV搭載車両の電源誘導時の取扱い 削除"
+    }
+  ],
+  "count": 4
+}

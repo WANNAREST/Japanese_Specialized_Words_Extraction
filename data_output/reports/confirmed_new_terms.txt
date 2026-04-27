@@ -1,0 +1,2 @@
+# Add one confirmed new term per line.
+# These terms will be loaded as extra positive samples when pipeline2.py trains.

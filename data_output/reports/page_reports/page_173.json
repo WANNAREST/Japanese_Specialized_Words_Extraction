@@ -1,0 +1,36 @@
+{
+  "page": 173,
+  "hits": [
+    {
+      "candidate": "信号",
+      "score": 0.847586,
+      "tag": "KNOWN",
+      "context": "特殊信号の停止信号で停止したときの取扱い"
+    },
+    {
+      "candidate": "停止信号",
+      "score": 0.757457,
+      "tag": "KNOWN",
+      "context": "特殊信号の停止信号で停止したときの取扱い"
+    },
+    {
+      "candidate": "特殊信号",
+      "score": 0.741944,
+      "tag": "KNOWN",
+      "context": "特殊信号の停止信号で停止したときの取扱い"
+    },
+    {
+      "candidate": "乗務員",
+      "score": 0.511113,
+      "tag": "KNOWN",
+      "context": "74 動力車乗務員作業標準在来線異常時編"
+    },
+    {
+      "candidate": "動力車",
+      "score": 0.40382,
+      "tag": "KNOWN",
+      "context": "74 動力車乗務員作業標準在来線異常時編"
+    }
+  ],
+  "count": 5
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "candidate": "ブレーキ制御装置",
+    "score": 0.968712,
+    "is_known_dictionary_term": true,
+    "type": "known"
+  },
+  {
+    "candidate": "主電動機",
+    "score": 0.748928,
+    "is_known_dictionary_term": true,
+    "type": "known"
+  }
+]

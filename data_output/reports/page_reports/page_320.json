@@ -1,0 +1,30 @@
+{
+  "page": 320,
+  "hits": [
+    {
+      "candidate": "交直流電車",
+      "score": 0.622206,
+      "tag": "KNOWN",
+      "context": "交直流電車が直流冒進したときの取扱い 削除"
+    },
+    {
+      "candidate": "乗務員",
+      "score": 0.511113,
+      "tag": "KNOWN",
+      "context": "140-2 動力車乗務員作業標準在来線異常時編"
+    },
+    {
+      "candidate": "電車",
+      "score": 0.475711,
+      "tag": "KNOWN",
+      "context": "交直流電車が直流冒進したときの取扱い 削除"
+    },
+    {
+      "candidate": "動力車",
+      "score": 0.40382,
+      "tag": "KNOWN",
+      "context": "140-2 動力車乗務員作業標準在来線異常時編"
+    }
+  ],
+  "count": 4
+}
