@@ -1,5 +1,5 @@
 
-### (Hệ thống Trích xuất Thuật ngữ Kỹ thuật Đường sắt Nhật Bản)
+# Hệ thống Trích xuất Thuật ngữ Kỹ thuật Đường sắt Nhật Bản
 
 Dự án này là một quy trình (Pipeline) tự động hóa hoàn toàn việc đọc tài liệu PDF chuyên ngành, làm sạch nhiễu OCR và sử dụng Trí tuệ nhân tạo (NLP + Machine Learning) để trích xuất các thuật ngữ kỹ thuật tinh khiết nhất. Hệ thống được tinh chỉnh đặc biệt để loại bỏ các câu văn diễn giải, khẩu lệnh lái tàu và các lỗi định dạng văn bản phức tạp.
 
