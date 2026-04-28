@@ -41,7 +41,7 @@ python main.py
 ```
 ## 📊 Giải thích kết quả đầu ra
 
-Sau khi chạy, bạn sẽ nhận được file `data_output/reports/terms_by_page.csv` với các cột:
+File `data_output/reports/terms_by_page.csv` với các cột:
 
 | Cột | Ý nghĩa |
 | :--- | :--- |
